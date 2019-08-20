@@ -1,0 +1,2 @@
+consumer_key="cN98civcidJHVDcWTo5vbdvQxkb4Iyqc"
+secret_key="AsGaz7hiN41dMBlT"
